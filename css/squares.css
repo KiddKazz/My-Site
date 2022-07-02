@@ -1,0 +1,20 @@
+div {
+    height: 200px;
+    width: 200px;
+}
+
+.red{
+    background-color: red;
+    position: absolute;
+    right: 888px;
+    bottom: 75px;
+}
+.blue{
+    background-color: blue;
+    position: absolute;
+    right: 1088px;
+    bottom: 275px;
+}
+.yellow{
+    background-color: yellow;
+}
